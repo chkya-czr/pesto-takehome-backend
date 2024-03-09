@@ -1,0 +1,8 @@
+{
+  "name": "pesto-takehome-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chkya-czr/pesto-takehome-backend.git",
+  "author": "Aayush Gogia <gogia.a.dev@gmail.com>",
+  "license": "MIT"
+}
